@@ -4,7 +4,7 @@
   "description": "Installs VLC using the Chocolatey package manager",
   "tags": [
     "Windows",
-    "PuTTY"
+    "VLC"
   ],
   "iconUri": "",
   "targetOsType": "Windows",
